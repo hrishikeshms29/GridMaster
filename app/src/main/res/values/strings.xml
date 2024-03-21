@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Grid Master</string>
+    <string name="title_activity_game">GameActivity</string>
 </resources>
